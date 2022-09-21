@@ -1,0 +1,51 @@
+
+
+    
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+*{
+
+font-family: Open Sans 
+}  
+h1{
+color:rgb(242, 247, 248);
+
+}
+.Softskill{ color:red;
+
+    
+}
+
+.Hardskill{ color:yellow;
+
+}      
+
+ol li p{ 
+color:rgb(212, 240, 4);
+
+background-color: cadetblue;
+margin-top: 12px;
+margin-right: 300px;
+margin-left: 10px;
+margin-bottom: 10px;
+
+font-size: 40px;
+
+}
+
+body {
+background-image: url(https://img.wallpapic-br.com/i9744-323-737/thumb/espaco-sideral-lua-planeta-terra-imagem-de-fundo.jpg);
+background-size: cover;
+
+}
+img{
+    margin-left: 500px;
+    margin-bottom: 200px;
+}
+p{
+color:"white"
+
+}
+
+
+
+
