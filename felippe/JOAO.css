@@ -7,29 +7,23 @@
 font-family: Open Sans 
 }  
 h1{
-color:rgb(242, 247, 248);
+color:#f2f7f8;
+border-radius: 8px;
+border: 1px solid #f2f7f8;
+display: flex;
+justify-content: space-around;
+flex-direction: row;
+align-items: center;
+
 
 }
-.Softskill{ color:red;
 
-    
-}
+.titulo{
 
-.Hardskill{ color:yellow;
-
-}      
-
-ol li p{ 
-color:rgb(212, 240, 4);
-
-background-color: cadetblue;
-margin-top: 12px;
-margin-right: 300px;
-margin-left: 10px;
-margin-bottom: 10px;
-
-font-size: 40px;
-
+    display: flex;
+justify-content: space-around;
+flex-direction: row;
+align-items: center;
 }
 
 body {
@@ -40,12 +34,26 @@ background-size: cover;
 img{
     margin-left: 500px;
     margin-bottom: 200px;
+    align-items:right; 
+    height:200 px;
+    Width:300;
+}
+
+
+p{
+color: aliceblue;
+
 }
 p{
-color:"white"
+font-size: 20px;
 
 }
 
-
+a{
+color: #f2f7f8;
+border: 1px solid #f2f7f8;
+padding: 8px;
+border-radius: 8px;
+}
 
 

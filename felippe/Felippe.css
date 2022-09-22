@@ -1,0 +1,42 @@
+
+    
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+*{
+
+font-family: Open Sans 
+}  
+body{
+
+    background-image: url("https://4.bp.blogspot.com/-NQdjSIhmdVU/TlvNr3Wf4eI/AAAAAAAADdc/vomG7iMEXPg/s1600/lua-e-terra-vistas-do-espaco-imagens-imagem-de-fundo-wallpaper-para-pc-computador-tela-gratis-ambiente-de-trabalho.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+
+}
+p{
+
+    color :aliceblue;
+    align-items: center;
+
+}
+
+h1{
+
+    color: aliceblue;
+    align-items: center;
+}
+.title{
+
+    margin-left:180px ; 
+    
+
+}
+.atronalt{
+
+    display: flex;
+    flex-direction: row;
+    
+}
+label{
+    color: aliceblue;
+}
